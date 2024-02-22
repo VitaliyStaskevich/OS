@@ -1,0 +1,12 @@
+# Ignore all .txt files
+*.txt
+
+# Ignore .depend and .layout files
+*.depend
+*.layout
+
+# Ignore bin and obj folders
+bin/
+obj/
+.idea/
+venv/
