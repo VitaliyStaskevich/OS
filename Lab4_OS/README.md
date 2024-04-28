@@ -10,7 +10,7 @@ g++ -o receiver.exe receiver.cpp
 receiver.exe
 ~~~
 
-Or use a run.bat file
+Or use a `run.bat` file
 ## Functionality
 A program for message passing between processes via a shared file. The program should consist of one Receiver process and one Sender process. The Sender process sends messages to the Receiver process.
 
