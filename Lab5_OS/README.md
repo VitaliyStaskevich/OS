@@ -1,4 +1,4 @@
-# Lab4 (Synhronisation of processes)
+# Lab5 (Named pipes data handling)
 ## Compilation
 ~~~
 g++ -o client.exe client.cpp
